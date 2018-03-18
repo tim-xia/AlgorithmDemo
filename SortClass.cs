@@ -167,8 +167,9 @@ namespace AlgorithmDemo
             arr[low] = key;
             return high;
         }
-        #endregion 
+        #endregion
 
+        #region 堆排序
         public void HeapSort(int[] arr)
         {
             //构建大顶堆
@@ -218,7 +219,7 @@ namespace AlgorithmDemo
             Display(arr);
         }
 
-
+        #endregion
 
         /// <summary>
         /// Display the specified arr. 输出数组
