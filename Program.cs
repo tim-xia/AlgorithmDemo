@@ -6,7 +6,7 @@ namespace AlgorithmDemo
     {
         static void Main(string[] args)
         {
-            int[] list = { 12, 32, 11, 2, 5, 8, 88, 122, 100, 3 };
+            int[] list = { 12, 32, 11, 2, 5, 8, 81, 122, 100, 3 };
             //Console.WriteLine("Bublle Sort(冒泡排序)：");
             //new SortClass().BubbleSort(list);
             //Console.WriteLine("Selection Sort(选择排序)：");
